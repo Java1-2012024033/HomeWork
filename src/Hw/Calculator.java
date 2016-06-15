@@ -25,7 +25,7 @@ public class Calculator  extends JFrame{
 		setTitle("의연이와 강우의 계산기");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		text = new JTextField("100");
-		text.setText("0.");
+		text.setText("0.0");
 		text.setEditable(false);
 		JPanel panel1 = new JPanel();
 		
