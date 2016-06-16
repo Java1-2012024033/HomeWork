@@ -106,6 +106,7 @@ public class Calculator  extends JFrame implements ActionListener{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		new Calculator();
+		System.out.println("git hub 어려워요 ㅜㅜ");
 	}
 
 }
